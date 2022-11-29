@@ -10,10 +10,10 @@ going into either engineering or programming<br>
 <br>
 <br>
 <code>
-  Languages I Know: 
-    - Python 
-    - Kotlin (Currently learning) 
-    - HTML/CSS (Currently learning) 
+ Languages I Know: 
+  - Python 
+  - Kotlin (Currently learning) 
+  - HTML/CSS (Currently learning) 
  </code>
 
 <!---
