@@ -1,4 +1,4 @@
-<h1><strong>here's a thing</strong></h1>
+<h1>here's a thing</h1>
 <p1>
 i have no idea how i'm here or what i'm doing<br>
 anyways hi<br>
