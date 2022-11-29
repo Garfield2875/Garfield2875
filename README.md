@@ -7,11 +7,13 @@ going into either engineering or programming<br>
 </p1>
 <br>
 <p2><strong>MTA Certified 01/31/2021</strong></p2>
+<br>
+<br>
 <code>
-  Languages I Know:
-    - Python
-    - Kotlin (Currently learning)
-    - HTML/CSS (Currently learning)
+  Languages I Know: <br>
+    - Python <br>
+    - Kotlin (Currently learning) <br>
+    - HTML/CSS (Currently learning) <br>
  </code>
 
 <!---
