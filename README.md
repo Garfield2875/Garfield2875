@@ -3,7 +3,7 @@
 - in school
 - going into either engineering or programming
 - i don't know what i did yesterday
-- MTA Certified 01/31/2021
+MTA Certified 01/31/2021
 
 <!---
 Garfield2875/Garfield2875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
