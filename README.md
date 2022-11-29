@@ -5,7 +5,7 @@ anyways hi<br>
 in school<br>
 going into either engineering or programming<br>
 </p1>
-MTA Certified 01/31/2021
+<p2><strong>MTA Certified 01/31/2021</strong></p2>
 
 <!---
 Garfield2875/Garfield2875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
