@@ -2,7 +2,8 @@
 - anyways hi
 - in school
 - going into either engineering or programming
-- i don't know what i did yesterday /n
+- i don't know what i did yesterday
+
 MTA Certified 01/31/2021
 
 <!---
