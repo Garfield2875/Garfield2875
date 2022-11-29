@@ -12,7 +12,6 @@ going into either engineering or programming<br>
  <li>Kotlin (Currently learning)</li>
  <li>HTML/CSS (Currently learning)</li>
 </ul>
-<br>
 <p2><strong>MTA Certified 01/31/2021</strong></p2>
 
 <!---
