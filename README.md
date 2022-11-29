@@ -8,7 +8,6 @@ going into either engineering or programming<br>
 <br>
 <p2><strong>MTA Certified 01/31/2021</strong></p2>
 <br>
-<br>
 <h3>Languages I Know:</h3>
 <ul>
  <li>Python</li>
