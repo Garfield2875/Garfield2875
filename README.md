@@ -10,10 +10,10 @@ going into either engineering or programming<br>
 <br>
 <br>
 <p2>
- Languages I Know: 
-  - Python 
-  - Kotlin (Currently learning) 
-  - HTML/CSS (Currently learning) 
+ Languages I Know: <br>
+  - Python <br>
+  - Kotlin (Currently learning) <br>
+  - HTML/CSS (Currently learning) <br>
 </p2>
 <!---
 Garfield2875/Garfield2875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
