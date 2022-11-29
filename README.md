@@ -9,12 +9,13 @@ going into either engineering or programming<br>
 <p2><strong>MTA Certified 01/31/2021</strong></p2>
 <br>
 <br>
-<p2>
- Languages I Know: <br>
-  - Python <br>
-  - Kotlin (Currently learning) <br>
-  - HTML/CSS (Currently learning) <br>
-</p2>
+<h2>Languages I Know:</h2>
+<ul>
+ <li>Python</li>
+ <li>Kotlin (Currently learning)</li>
+ <li>HTML/CSS (Currently learning)</li>
+</ul>
+
 <!---
 Garfield2875/Garfield2875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
