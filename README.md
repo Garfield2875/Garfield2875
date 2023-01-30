@@ -9,8 +9,9 @@ going into either engineering or programming<br>
 <h3>Languages I Know:</h3>
 <ul>
  <li>Python</li>
- <li>Kotlin (Currently learning)</li>
+ <li>Javascript (Currently learning)</li>
  <li>HTML/CSS (Currently learning)</li>
+ <li>Kotlin (Currently learning)</li>
 </ul>
 <p2><strong>MTA Certified 01/31/2021</strong></p2>
 
